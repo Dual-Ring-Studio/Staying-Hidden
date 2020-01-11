@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "220cc794-0396-40a1-822c-00cdb3ecf490",
+            "Value": {
+                "id": "64e113e5-6f16-426b-8162-e4518bf1b6f8",
+                "resourcePath": "objects\\obj_wall1\\obj_wall1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "25e4a479-728a-4ff5-8be3-ac0df290919d",
             "Value": {
                 "id": "27493e4e-5eed-424c-9e0d-9281799dfdc0",
@@ -63,6 +71,14 @@
             }
         },
         {
+            "Key": "34ef1a14-a633-4094-9b4d-eb8e305c947e",
+            "Value": {
+                "id": "8ea3dbb7-e8a7-4e8e-b398-b410db330095",
+                "resourcePath": "sprites\\spr_wall1\\spr_wall1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3decd79d-536c-46c0-ab0a-dbe5810d6bfe",
             "Value": {
                 "id": "914f58a0-cb18-42fa-953b-a5b154534f5c",
@@ -84,6 +100,14 @@
                 "id": "a647d327-905a-49ab-9473-8fad77a5de06",
                 "resourcePath": "views\\45d5abc9-f0cf-49c1-8c39-c9e09f8834b7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "59cdc596-f0e7-4aaf-a087-07979190e52d",
+            "Value": {
+                "id": "1bdcfce5-1b16-4613-864f-f2f7ecfa370f",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -164,6 +188,14 @@
                 "id": "f3422c45-c765-47fe-b98e-0047fb870837",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cc9e3aea-eaed-424b-ba3d-f7f9261f7328",
+            "Value": {
+                "id": "9e7596ad-c5ed-4bf8-9779-dc3001eb5906",
+                "resourcePath": "sprites\\spr_player\\spr_player.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
