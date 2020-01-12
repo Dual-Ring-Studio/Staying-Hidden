@@ -1,8 +1,8 @@
 {
-    "id": "220cc794-0396-40a1-822c-00cdb3ecf490",
+    "id": "6125a402-4aef-4e83-bf44-3e5d442e6d4d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_wall1",
+    "name": "obj_drake",
     "eventList": [
         
     ],
@@ -23,7 +23,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
-    "spriteId": "34ef1a14-a633-4094-9b4d-eb8e305c947e",
+    "solid": false,
+    "spriteId": "32a4728c-04d4-4af0-b741-bf4d6f1496b7",
     "visible": true
 }
