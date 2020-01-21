@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "2d6b2dc9-f7c1-48f1-a4bd-01656e0bcfaa",
+            "Value": {
+                "id": "185b3d95-ddb4-4a85-8596-d31a04b6c6a9",
+                "resourcePath": "tilesets\\til_background\\til_background.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "300f068a-bdc7-4ce8-8374-b608a9e95cc4",
             "Value": {
                 "id": "7afe340e-2fb9-4939-be6a-e2b3b6a7c610",
@@ -84,6 +92,14 @@
                 "id": "914f58a0-cb18-42fa-953b-a5b154534f5c",
                 "resourcePath": "views\\3decd79d-536c-46c0-ab0a-dbe5810d6bfe.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3eebc03c-7871-44c6-9429-579f5dbde251",
+            "Value": {
+                "id": "a515ef61-b0bd-4a38-8aa6-810e60a28404",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -199,14 +215,6 @@
             }
         },
         {
-            "Key": "c5ecf8d9-4a5c-4dbf-aa40-48cac9884b7a",
-            "Value": {
-                "id": "233d136f-d38d-4bb0-a99c-f5541f31b953",
-                "resourcePath": "sprites\\spr_background\\spr_background.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "f3422c45-c765-47fe-b98e-0047fb870837",
@@ -228,14 +236,6 @@
                 "id": "4faab391-8a1a-4d27-aeae-424072db920a",
                 "resourcePath": "views\\ec48bd06-1f19-400f-afb4-ab8fa8a78a77.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "ed6a279a-d8c2-4f4c-9ecf-0ebb644120b7",
-            "Value": {
-                "id": "3b90466b-0158-4ea5-be92-f0158c716bf8",
-                "resourcePath": "tilesets\\til_background\\til_background.yy",
-                "resourceType": "GMTileSet"
             }
         },
         {
