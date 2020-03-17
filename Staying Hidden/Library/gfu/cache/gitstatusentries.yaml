@@ -1,0 +1,1110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-03-17T10:30:42.210-04:00
+  initializedAtString: 2020-03-17T10:30:42.210-04:00
+  entries:
+  - path: Staying Hidden\Assets\Plugins.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\assetDatabase3
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Staying Hidden\Library\EditorInstance.json
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    projectPath: Library\metadata\11\1186e0491049e40ba8e7e19e418d9e8e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    projectPath: Library\metadata\18\181f65fb096cedd4493bc9971257d8b1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    projectPath: Library\metadata\18\18e096a98c2704c40a818dd1214cd179.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    projectPath: Library\metadata\25\2590b98e5cafc4e32b61170d7b917ee6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    projectPath: Library\metadata\33\33d3e83914445de4d92ab0d77d7fa3f9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    projectPath: Library\metadata\48\480071253ef427a4cbc55ef1fedca3e5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    projectPath: Library\metadata\4b\4ba86e5b8d6657b4184ff6b976ac3d3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    projectPath: Library\metadata\55\555cd6f54c03341b1970d950df1a5ee5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    projectPath: Library\metadata\5a\5a2082a44711bad4b90f693579c2b336.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1dd4.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    projectPath: Library\metadata\68\68c7e4565cde54155bb78d8e935f1ddb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    projectPath: Library\metadata\6e\6e4df876417ac4c4f8862a5234b25615.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    projectPath: Library\metadata\72\720712be6e31c444f88f57bb85bf5fa5.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    projectPath: Library\metadata\86\863e1b9976c4e46d29bf83928b3a8ab2.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\87\877ef3585573ce44eab899298be23158
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\87\877ef3585573ce44eab899298be23158
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    projectPath: Library\metadata\87\877ef3585573ce44eab899298be23158.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    projectPath: Library\metadata\c0\c0809c8f0ddd4b546939f6fe7a94ac6c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ab.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    projectPath: Library\metadata\d6\d601ecb6855bb432bae2aa49d8fd82e8.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    projectPath: Library\metadata\da\dae2ecee8a704dd59797e26554ff8606.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    projectPath: Library\metadata\f8\f81094832d834c64d93b198cb16b6a3e.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Staying Hidden\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Staying Hidden\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Staying Hidden\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Staying Hidden\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Staying Hidden\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Staying Hidden\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Staying Hidden\Temp\UnityLockfile
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-197d7226f626c3c42b91046c016915f5
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-197d7226f626c3c42b91046c016915f5
+    projectPath: Temp\UnityTempFile-197d7226f626c3c42b91046c016915f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-1c9abaef432e9a74aa41ede15a3ab085
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-1c9abaef432e9a74aa41ede15a3ab085
+    projectPath: Temp\UnityTempFile-1c9abaef432e9a74aa41ede15a3ab085
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-432ea923aedc9bb4fa484c575e674c0e
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-432ea923aedc9bb4fa484c575e674c0e
+    projectPath: Temp\UnityTempFile-432ea923aedc9bb4fa484c575e674c0e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-51bcdb477f0ddb94d8a823f45b6a5610
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-51bcdb477f0ddb94d8a823f45b6a5610
+    projectPath: Temp\UnityTempFile-51bcdb477f0ddb94d8a823f45b6a5610
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-59d8ca3b8049a644fb21d137c8e6610f
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-59d8ca3b8049a644fb21d137c8e6610f
+    projectPath: Temp\UnityTempFile-59d8ca3b8049a644fb21d137c8e6610f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-69e4bc90b2a449247a665d900b99d1bc
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-69e4bc90b2a449247a665d900b99d1bc
+    projectPath: Temp\UnityTempFile-69e4bc90b2a449247a665d900b99d1bc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-6b6b5fd901d748b4599ca8896e47e72d
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-6b6b5fd901d748b4599ca8896e47e72d
+    projectPath: Temp\UnityTempFile-6b6b5fd901d748b4599ca8896e47e72d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-9b6ce629b194b0a42b1f088de92a16cc
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-9b6ce629b194b0a42b1f088de92a16cc
+    projectPath: Temp\UnityTempFile-9b6ce629b194b0a42b1f088de92a16cc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-ad1bc7c93f4c9a8499075ec70cc3ee61
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-ad1bc7c93f4c9a8499075ec70cc3ee61
+    projectPath: Temp\UnityTempFile-ad1bc7c93f4c9a8499075ec70cc3ee61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-e054161896b57df4d825f6905edc4864
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-e054161896b57df4d825f6905edc4864
+    projectPath: Temp\UnityTempFile-e054161896b57df4d825f6905edc4864
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-e9bf96980f66c8b488a722c475bf8f40
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-e9bf96980f66c8b488a722c475bf8f40
+    projectPath: Temp\UnityTempFile-e9bf96980f66c8b488a722c475bf8f40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Staying Hidden\Temp\UnityTempFile-f53b00e531c62b040b4fafcdb30e07d8
+    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Temp\UnityTempFile-f53b00e531c62b040b4fafcdb30e07d8
+    projectPath: Temp\UnityTempFile-f53b00e531c62b040b4fafcdb30e07d8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
