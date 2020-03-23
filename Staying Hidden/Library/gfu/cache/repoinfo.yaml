@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-03-17T10:30:42.200-04:00
-  initializedAtString: 2020-03-17T10:30:42.200-04:00
+  lastUpdatedAtString: 2020-03-23T12:36:48.999-04:00
+  initializedAtString: 2020-03-23T12:36:48.999-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/SHADOWELITE7/Mazes-of-Eternal-Chaos.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: switching-to-unity
-    tracking: origin/switching-to-unity
+    name: master
+    tracking: origin/master
   currentConfigBranch:
-    name: switching-to-unity
+    name: master
     remote:
       name: origin
       url: https://github.com/SHADOWELITE7/Mazes-of-Eternal-Chaos.git
-    trackingBranch: switching-to-unity
+    trackingBranch: master
   currentConfigRemote:
     name: origin
     url: https://github.com/SHADOWELITE7/Mazes-of-Eternal-Chaos.git
