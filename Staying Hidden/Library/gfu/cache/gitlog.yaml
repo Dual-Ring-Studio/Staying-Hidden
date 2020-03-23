@@ -13,9 +13,111 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-23T12:36:51.878-04:00
+  lastUpdatedAtString: 2020-03-23T12:53:59.381-04:00
   initializedAtString: 2020-03-23T12:36:51.878-04:00
   log:
+  - commitID: 22957b92774731b1c0f43001a901f6ad93b173d4
+    mergeA: 
+    mergeB: 
+    authorName: Jasper Rogers
+    authorEmail: jasper.david.rogers@gmail.com
+    commitEmail: jasper.david.rogers@gmail.com
+    commitName: Jasper Rogers
+    summary: unity files
+    description: 
+    timeString: 2020-03-23T12:46:58.000-04:00
+    commitTimeString: 2020-03-23T12:46:58.000-04:00
+    changes:
+    - path: .gitignore
+      fullPath: D:\Staying Hidden\Staying-Hidden\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\CurrentLayout.dwlt
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\EditorInstance.json
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\InspectorExpandedItems.asset
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\ShaderCache\4\455194cffd48d0a5f414967065a11ebc.bin
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ShaderCache\4\455194cffd48d0a5f414967065a11ebc.bin
+      projectPath: Library\ShaderCache\4\455194cffd48d0a5f414967065a11ebc.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\ShaderCache\8\84b6ff091cc83227a039110becbb6403.bin
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ShaderCache\8\84b6ff091cc83227a039110becbb6403.bin
+      projectPath: Library\ShaderCache\8\84b6ff091cc83227a039110becbb6403.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\ShaderCache\f\f8411b76f72480fdf8995a38016ad2e2.bin
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ShaderCache\f\f8411b76f72480fdf8995a38016ad2e2.bin
+      projectPath: Library\ShaderCache\f\f8411b76f72480fdf8995a38016ad2e2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\ShaderCache\f\f9b0a13cf9d4113308ebccaa87e0b04a.bin
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\ShaderCache\f\f9b0a13cf9d4113308ebccaa87e0b04a.bin
+      projectPath: Library\ShaderCache\f\f9b0a13cf9d4113308ebccaa87e0b04a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\gfu\cache\branches.yaml
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\gfu\cache\gitlocks.yaml
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\gfu\cache\repoinfo.yaml
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: d2dc08eba3ae193187ebe46308caafbe88445bbf
     mergeA: 82a07270bdd6be014a02b2178e62ddf075cdba1b
     mergeB: 944c8e1522a3a0549e0c6b79d39f4a521cf40e87
