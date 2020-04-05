@@ -13,9 +13,45 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-03-23T12:53:59.381-04:00
-  initializedAtString: 2020-03-23T12:36:51.878-04:00
+  lastUpdatedAtString: 2020-04-02T21:37:34.473-04:00
+  initializedAtString: 2020-04-02T21:37:34.473-04:00
   log:
+  - commitID: 20b3dade6ea7d4956cfbb136c9a26c5f35bac15a
+    mergeA: 
+    mergeB: 
+    authorName: Jasper Rogers
+    authorEmail: jasper.david.rogers@gmail.com
+    commitEmail: jasper.david.rogers@gmail.com
+    commitName: Jasper Rogers
+    summary: unity changes
+    description: 
+    timeString: 2020-03-23T12:54:14.000-04:00
+    commitTimeString: 2020-03-23T12:54:14.000-04:00
+    changes:
+    - path: Staying Hidden\Library\CurrentLayout.dwlt
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\EditorInstance.json
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\gfu\cache\branches.yaml
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Staying Hidden\Library\gfu\cache\gitlog.yaml
+      fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 22957b92774731b1c0f43001a901f6ad93b173d4
     mergeA: 
     mergeB: 
@@ -125,7 +161,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: noreply@github.com
     commitName: GitHub
-    summary: 'Merge pull request #1 from Dual-Ring-Studio/switching-to-unity'
+    summary: Merge pull request #1 from Dual-Ring-Studio/switching-to-unity
     description: Switching to Unity
     timeString: 2020-03-18T06:25:08.000-04:00
     commitTimeString: 2020-03-18T06:25:08.000-04:00
@@ -1163,7 +1199,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #21'
+    summary: unity files #21
     description: 
     timeString: 2020-03-17T10:19:42.000-04:00
     commitTimeString: 2020-03-17T10:19:42.000-04:00
@@ -3788,8 +3824,8 @@ MonoBehaviour:
         Party Notices.md
       fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\PackageCache\com.unity.package-manager-ui@2.0.8\Third
         Party Notices.md
-      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.8\Third Party
-        Notices.md
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.8\Third
+        Party Notices.md
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
@@ -3797,8 +3833,8 @@ MonoBehaviour:
         Party Notices.md.meta
       fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\PackageCache\com.unity.package-manager-ui@2.0.8\Third
         Party Notices.md.meta
-      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.8\Third Party
-        Notices.md.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.8\Third
+        Party Notices.md.meta
       originalPath: 
       indexStatus: 4
       workTreeStatus: 0
@@ -6267,7 +6303,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #20'
+    summary: unity files #20
     description: 
     timeString: 2020-03-17T10:18:11.000-04:00
     commitTimeString: 2020-03-17T10:18:11.000-04:00
@@ -7275,7 +7311,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #19'
+    summary: unity files #19
     description: 
     timeString: 2020-03-17T09:34:23.000-04:00
     commitTimeString: 2020-03-17T09:34:23.000-04:00
@@ -7959,7 +7995,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #18'
+    summary: unity files #18
     description: 
     timeString: 2020-03-17T09:32:19.000-04:00
     commitTimeString: 2020-03-17T09:32:19.000-04:00
@@ -8913,7 +8949,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #17'
+    summary: unity files #17
     description: 
     timeString: 2020-03-17T09:22:00.000-04:00
     commitTimeString: 2020-03-17T09:22:00.000-04:00
@@ -9951,7 +9987,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #16'
+    summary: unity files #16
     description: 
     timeString: 2020-03-17T09:16:58.000-04:00
     commitTimeString: 2020-03-17T09:16:58.000-04:00
@@ -10719,7 +10755,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #15'
+    summary: unity files #15
     description: 
     timeString: 2020-03-17T09:10:28.000-04:00
     commitTimeString: 2020-03-17T09:10:28.000-04:00
@@ -11463,7 +11499,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #14'
+    summary: unity files #14
     description: 
     timeString: 2020-03-17T09:07:58.000-04:00
     commitTimeString: 2020-03-17T09:07:58.000-04:00
@@ -11853,7 +11889,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #13'
+    summary: unity files #13
     description: 
     timeString: 2020-03-17T09:06:03.000-04:00
     commitTimeString: 2020-03-17T09:06:03.000-04:00
@@ -12123,7 +12159,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #12'
+    summary: unity files #12
     description: 
     timeString: 2020-03-17T09:05:04.000-04:00
     commitTimeString: 2020-03-17T09:05:04.000-04:00
@@ -12225,7 +12261,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #11'
+    summary: unity files #11
     description: 
     timeString: 2020-03-17T09:04:25.000-04:00
     commitTimeString: 2020-03-17T09:04:25.000-04:00
@@ -12327,7 +12363,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #10'
+    summary: unity files #10
     description: 
     timeString: 2020-03-17T09:04:00.000-04:00
     commitTimeString: 2020-03-17T09:04:00.000-04:00
@@ -12429,7 +12465,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #9'
+    summary: unity files #9
     description: 
     timeString: 2020-03-17T09:03:31.000-04:00
     commitTimeString: 2020-03-17T09:03:31.000-04:00
@@ -12531,7 +12567,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #8'
+    summary: unity files #8
     description: 
     timeString: 2020-03-17T09:03:03.000-04:00
     commitTimeString: 2020-03-17T09:03:03.000-04:00
@@ -12633,7 +12669,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #7'
+    summary: unity files #7
     description: 
     timeString: 2020-03-17T09:02:40.000-04:00
     commitTimeString: 2020-03-17T09:02:40.000-04:00
@@ -12735,7 +12771,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #6'
+    summary: unity files #6
     description: 
     timeString: 2020-03-17T09:02:14.000-04:00
     commitTimeString: 2020-03-17T09:02:14.000-04:00
@@ -12837,7 +12873,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #5'
+    summary: unity files #5
     description: 
     timeString: 2020-03-17T09:01:16.000-04:00
     commitTimeString: 2020-03-17T09:01:16.000-04:00
@@ -12939,7 +12975,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #4'
+    summary: unity files #4
     description: 
     timeString: 2020-03-17T09:00:27.000-04:00
     commitTimeString: 2020-03-17T09:00:27.000-04:00
@@ -13041,7 +13077,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #3'
+    summary: unity files #3
     description: 
     timeString: 2020-03-17T09:00:02.000-04:00
     commitTimeString: 2020-03-17T09:00:02.000-04:00
@@ -13143,7 +13179,7 @@ MonoBehaviour:
     authorEmail: jasper.david.rogers@gmail.com
     commitEmail: jasper.david.rogers@gmail.com
     commitName: Jasper Rogers
-    summary: 'unity files #2'
+    summary: unity files #2
     description: 
     timeString: 2020-03-17T08:59:36.000-04:00
     commitTimeString: 2020-03-17T08:59:36.000-04:00
