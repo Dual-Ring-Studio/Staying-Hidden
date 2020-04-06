@@ -1,5 +1,18 @@
-## [3.2.3] - 2019-10-29
+## [3.3.5] - 2020-01-09
+- Add a fix for a regression issue introduced pertaining to the Analytics Event tracker
+
+## [3.3.4] - 2019-10-16
 - Add a fix for the deprecated API build time warning on webgl platform while using Data Privacy service.
+
+## [3.3.2] - 2019-01-15
+- Update com.unity.ugui version dependency to new format.
+- Add explicit dll dependencies to asmdefs needed for Test Platform changes.
+
+## [3.3.1] - 2018-11-21
+- Fixed missing dependency to com.unity.ugui to package.json
+
+## [3.3.0] - 2018-11-16
+- Removed dependency on UGUI extension in favor of new core package.
 
 ## [3.2.2] - 2018-11-02
 - Removed FetchOptOutStatus and Initialize call. All application of opt out
