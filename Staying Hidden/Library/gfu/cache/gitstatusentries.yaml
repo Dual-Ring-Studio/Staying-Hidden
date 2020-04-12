@@ -13,15 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-10T14:30:23.433-04:00
-  initializedAtString: 2020-04-10T14:30:23.433-04:00
+  lastUpdatedAtString: 2020-04-12T11:57:53.410-04:00
+  initializedAtString: 2020-04-12T11:57:53.410-04:00
   entries:
-  - path: Staying Hidden\Library\Artifacts\11\116f2db0ee3e4d3e814381688e3d72d3
-    fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\Artifacts\11\116f2db0ee3e4d3e814381688e3d72d3
-    projectPath: Library\Artifacts\11\116f2db0ee3e4d3e814381688e3d72d3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Staying Hidden\Library\EditorInstance.json
     fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
