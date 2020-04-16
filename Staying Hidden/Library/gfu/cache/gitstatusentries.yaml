@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-04-12T11:57:53.410-04:00
-  initializedAtString: 2020-04-12T11:57:53.410-04:00
+  lastUpdatedAtString: 2020-04-16T10:35:49.028-04:00
+  initializedAtString: 2020-04-16T10:35:49.028-04:00
   entries:
   - path: Staying Hidden\Library\EditorInstance.json
     fullPath: D:\Staying Hidden\Staying-Hidden\Staying Hidden\Library\EditorInstance.json
