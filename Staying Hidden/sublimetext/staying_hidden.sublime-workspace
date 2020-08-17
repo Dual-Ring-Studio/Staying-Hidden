@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color ",
+				"UI: Select Color Scheme"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"discord",
+				"Preferences: Discord Rich Presence Settings"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"markdownli",
+				"MarkdownLivePreview: Edit Custom CSS File"
+			],
+			[
+				"pref",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"a",
+				"Arithmetic"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pac",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+			"clear",
+			"file \"<COGMIND.exe>\", line 1",
+			">>> help",
+			"help",
+			"print(help)",
+			"help",
+			"run",
+			"help",
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/GIT/Staying Hidden/Staying-Hidden/Staying Hidden/sublimetext/staying_hidden.sublime-project",
+		"/D/GIT/Staying Hidden/Staying-Hidden/Staying Hidden/.vscode/settings.json",
+		"/D/GIT/Staying Hidden/reasources/drake.png",
+		"/D/GIT/Staying Hidden/Staying-Hidden/Staying Hidden/Library/gfu/cache/gitlocks.yaml",
+		"/D/itch apps/rexpaint/REXPaint-v1.04/manual.txt",
+		"/D/Q/ad_v1_70patch1/ad_v1_70P1_readme.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/youtube_channels.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/college_accounts_info.txt",
+		"/D/SteamLibrary/steamapps/common/Dusk/goodies/Cheats.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/dotaheroes.txt",
+		"/D/bethesda.net launcher/games/The Elder Scrolls Arena/ARENA/HELP.TXT",
+		"/D/bethesda.net launcher/games/The Elder Scrolls Arena/ARENA/Docs/README.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Documents/Diabotical/uuid.txt",
+		"/D/bethesda.net launcher/games/The Elder Scrolls Arena/ARENA/Docs/Passwords.txt",
+		"/D/Q/quakespasm-0.93.2_win64/quakespasm-0.93.2_win64/Quakespasm.txt",
+		"/D/SteamLibrary/steamapps/common/Quake/ad/ad_v1_70patch1/my_progs/ai_explosion.qc",
+		"/D/Q/ad_v1_70mapsource/ad_v1_70_readme.txt",
+		"/D/SteamLibrary/steamapps/common/Quake/Docs/JOYSTICK.TXT",
+		"/D/Q/ad_v1_70patch1/ad_v1_70P1_documentation.txt",
+		"/D/Q/quakespasm-0.93.2_win64/quakespasm-0.93.2_win64/Quakespasm-Music.txt",
+		"/D/ad_v1_70patch1/ad_v1_70P1_documentation.txt",
+		"/D/golly-3.3-win-32bit/golly-3.3-win-32bit/Scripts/Lua/flood-fill.lua",
+		"/D/golly-3.3-win-32bit/golly-3.3-win-32bit/Patterns/WireWorld/gate-AND.mcl",
+		"/D/golly-3.3-win-32bit/golly-3.3-win-32bit/Patterns/Loops/Chou-Reggia-Loop-2.rle",
+		"/D/golly-3.3-win-32bit/golly-3.3-win-32bit/Patterns/HashLife/broken-lines.mc",
+		"/D/ad_v1_70patch1/ad_v1_70P1_readme.txt",
+		"/D/Sublime Text 3/python33.dll",
+		"/C/Users/jaspe_6sgtnwl/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/D/NetHack-362-win-x86/Guidebook.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/New Text Document.json",
+		"/D/df_47_04_win/readme.txt",
+		"/D/df_47_04_win/optipng license.txt",
+		"/D/df_47_04_win/command line.txt",
+		"/D/Battlefront_2_Remaster_Installer_1.1/Battlefront 2 Remaster Installer 1.1/Extract zip, run exe (patchnotes in here).txt",
+		"/D/SteamLibrary/steamapps/common/Caves of Qud/history_log.txt",
+		"/D/dopa/dopa_readme.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/testimony.txt",
+		"/D/aoe2de-build-orders/Drush_FC_Xbow.txt",
+		"/D/aoe2de-build-orders/Drush_rax_b4_Mill_into_FC_Hoang_style_revisited_by_me_lol.txt",
+		"/D/aoe2de-build-orders/Archers.txt",
+		"/D/aoe2de-build-orders/.gitattributes",
+		"/D/aoe2de-build-orders/Scouts_into_Skirms..txt",
+		"/D/aoe2de-build-orders/Scouts_into_Archers.txt",
+		"/D/aoe2de-build-orders/Persians_Douche.txt",
+		"/D/aoe2de-build-orders/Monk_rush.txt",
+		"/D/aoe2de-build-orders/MAA_archers.txt",
+		"/D/aoe2de-build-orders/Khmer_FC_12_mins.txt",
+		"/D/aoe2de-build-orders/Four_Lakes.txt",
+		"/D/aoe2de-build-orders/FC_Knights.txt",
+		"/D/aoe2de-build-orders/FC-_UU.txt",
+		"/D/aoe2de-build-orders/Drush_Archers.txt",
+		"/D/fundamentals of computing/web design/index.html",
+		"/D/shadowelite7/xonotic-0.8.2/Xonotic/Docs/mapping.txt",
+		"/C/Users/jaspe_6sgtnwl/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jaspe_6sgtnwl/AppData/Roaming/Sublime Merge/Packages/User/Commit Message.sublime-settings",
+		"/D/shadowelite7/TrenchBroom-Win32-v2020.1-RC1-Release/games/Quake3/GameConfig.cfg",
+		"/D/SteamLibrary/steamapps/common/AoE2DE/Tools_Builds/SLP/readme.txt",
+		"/D/SteamLibrary/steamapps/common/AoE2DE/Tools_Builds/docs/AGE_ReadMe.txt",
+		"/D/shadowelite7/DW-1.3-beta1/DW-1.3-beta1/readme_en.txt",
+		"/D/SteamLibrary/steamapps/common/Quake 2/ctf/server.cfg",
+		"/D/SteamLibrary/steamapps/common/Quake 2/baseq2/config.cfg",
+		"/D/SteamLibrary/steamapps/common/Cogmind/user/advanced.cfg",
+		"/C/Program Files (x86)/Steam/logs/cloud_log.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/Chickfila/account_info.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/Chickfila/User Agreement.pdf",
+		"/C/Users/jaspe_6sgtnwl/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jaspe_6sgtnwl/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/fundamentals of computing/web design/setup.html",
+		"/D/Shell-Scripts/idea.cmd",
+		"/C/Users/jaspe_6sgtnwl/AppData/Local/Temp/585f9372-cd77-429b-a326-02c47f79d2f0.tmp.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/Legion of Stride notes/about.txt",
+		"/D/df_47_04_win/data/art/font license.txt",
+		"/D/df_47_04_win/data/readme.txt",
+		"/D/df_47_04_win/gamelog.txt",
+		"/D/Staying Hidden/Staying-Hidden/Staying Hidden/Library/CurrentLayout.dwlt",
+		"/D/nQuake/readme.txt",
+		"/D/Shell-Scripts/config/options/colors.scheme.xml",
+		"/D/Shell-Scripts/config/tasks/the_uncharted_worlds.contexts.zip",
+		"/C/Users/jaspe_6sgtnwl/AppData/Local/Screeps/scripts/screeps.com/default/main.js",
+		"/D/Staying Hidden/Staying-Hidden/sprites/spr_drake/spr_drake.yy",
+		"/D/SteamLibrary/steamapps/common/Cogmind/user/save_v43.sav",
+		"/D/SteamLibrary/steamapps/common/Cogmind/user/save_v43(AUTO_0001-200315-103056).sav",
+		"/D/shadowelite7/age-of-empires-ii/readme.txt",
+		"/D/SteamLibrary/steamapps/common/Cogmind/scores/SHADOWELITE7-200312-202019-0-2147_log.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/DxDiag.txt",
+		"/D/diabotical/Diabotical/actions.cfg",
+		"/D/SteamLibrary/steamapps/common/Cogmind/rex/keyboard_ABNT2 (incomplete).cfg",
+		"/D/SteamLibrary/steamapps/common/Cogmind/rex/keyboard_WORKMAN.cfg",
+		"/D/SteamLibrary/steamapps/common/Cogmind/rex/commands_WASDQEZC.cfg",
+		"/D/SteamLibrary/steamapps/common/Cogmind/COGMIND-README.txt",
+		"/D/SteamLibrary/steamapps/common/Cogmind/manual.txt",
+		"/D/SteamLibrary/steamapps/common/AoEDE/build.txt",
+		"/D/SteamLibrary/steamapps/common/AoE2DE/Tools_Builds/docs/AGE_License.txt",
+		"/D/SteamLibrary/steamapps/common/AoE2DE/Tools_Builds/Color Blind Mode Colors.txt",
+		"/D/SteamLibrary/steamapps/common/AoE2DE/PerformanceTracker.txt",
+		"/D/Shell-Scripts/README.md",
+		"/D/SteamLibrary/steamapps/common/Superfighters Deluxe/README.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/Platformer.sb3",
+		"/D/itch apps/rexpaint/REXPaint-v1.04/REXPaint-README.txt",
+		"/D/SteamLibrary/steamapps/common/Dusk/SDK/readme.txt",
+		"/D/SteamLibrary/steamapps/common/Dusk/mappings/MappingsGuide.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Documents/Entropia Universe/Removed keymappings and icons.txt",
+		"/C/Users/jaspe_6sgtnwl/Twitch/Minecraft/Instances/so40/options.txt",
+		"/D/loadrl-20200111/games/nethack/nethack-3.6.4/Guidebook.txt",
+		"/D/loadrl-20200111/tools/DOSBox/DOSBox 0.74-3 Manual.txt",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/extra credit unit 1.txt",
+		"/D/Staying Hidden/Staying-Hidden/Staying Hidden.yyp",
+		"/D/loadrl-20200111/README.txt",
+		"/D/xonotic-0.8.2/Xonotic/Docs/mapdownload.txt",
+		"/D/xonotic-0.8.2/Xonotic/Docs/mapping.txt",
+		"/D/SteamLibrary/steamapps/common/Quake Live/baseq3/workshop.txt",
+		"/D/itch apps/rexpaint/REXPaint-v1.04/REXPaint.cfg",
+		"/D/itch apps/rexpaint/REXPaint-v1.04/stdout.txt",
+		"/D/TrenchBroom/games/Generic/GameConfig.cfg",
+		"/D/TrenchBroom/games/Quake3/GameConfig.cfg",
+		"/C/Users/jaspe_6sgtnwl/OneDrive/Desktop/age of empires maps/aoe-maps/readme.txt",
+		"/D/TrenchBroom/fonts/SIL Open Font License.txt",
+		"/C/Users/jaspe_6sgtnwl/AppData/Local/Temp/d101bc30-17be-4f0f-86fa-9c24d5e099b5.tmp.txt",
+		"/D/shadowelite7.github.io/games/index.html",
+		"/D/shadowelite7.github.io/portfolios/index.html",
+		"/D/Web-Design-Portfolio/index.html",
+		"/D/shadowelite7.github.io/.github/workflows/blank.yml",
+		"/D/dual-ring-studio.github.io/index.html",
+		"/D/shadowelite7.github.io/index.html",
+		"/D/Web-Design-Portfolio/unit4/images.html",
+		"/D/shadowelite7.github.io/readme.md",
+		"/D/SteamLibrary/steamapps/common/Quake Live/steam_appid.txt",
+		"/D/nativelog.txt"
+	],
+	"find":
+	{
+		"height": 38.4
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 234.0
+	},
+	"pinned_build_system": "",
+	"project": "staying_hidden.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
