@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-06T15:24:12.849-04:00
-  initializedAtString: 2020-08-06T15:24:12.849-04:00
+  lastUpdatedAtString: 2020-08-17T15:19:59.296-04:00
+  initializedAtString: 2020-08-17T15:19:59.296-04:00
   entries:
   - path: Staying Hidden\Library\EditorInstance.json
     fullPath: D:\GIT\Staying Hidden\Staying-Hidden\Staying Hidden\Library\EditorInstance.json
@@ -22,9 +22,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Staying Hidden\Library\SceneVisibilityState.asset
-    fullPath: D:\GIT\Staying Hidden\Staying-Hidden\Staying Hidden\Library\SceneVisibilityState.asset
-    projectPath: Library\SceneVisibilityState.asset
+  - path: Staying Hidden\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\GIT\Staying Hidden\Staying-Hidden\Staying Hidden\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
